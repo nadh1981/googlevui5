@@ -1,0 +1,25 @@
+{
+  "name": "budhil.ui5.googlev",
+  "version": "1.0.0",
+  "description": "Sample UI5 application to test google vision api",
+  "main": "index.html",
+  "scripts": {
+    "test": "test googlev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nadh1981/googlevui5.git"
+  },
+  "keywords": [
+    "ui5",
+    "google",
+    "vision",
+    "api"
+  ],
+  "author": "Nadh Yandamuri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nadh1981/googlevui5/issues"
+  },
+  "homepage": "https://github.com/nadh1981/googlevui5#readme"
+}
